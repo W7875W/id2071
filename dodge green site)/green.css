@@ -1,4 +1,19 @@
-﻿
+﻿.flex-container987 {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: DodgerBlue;
+}
+
+.flex-container987 > div {
+  background-color: #f1f1f1;
+  width: 200px;
+  margin: 0px;
+  text-align: center;
+  line-height: 0px;
+  font-size: 0px;
+}
+
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
